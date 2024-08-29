@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amanda Adjei
-- 👀 I’m interested in web developmet
-- 📫 How to reach me,throuhgh linkedin, www.linkedin.com/in/adjeiamanda.
+- 👀 I’m interested in creating interesting projects
+- 📫 How to reach me, through LinkedIn, www.linkedin.com/in/adjeiamanda.
 - Through email: amandaadjei128@gmail.com
 
 <!---
