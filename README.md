@@ -22,7 +22,7 @@ I’m a passionate developer and problem solver, currently pursuing a career in 
 **📫 How to Reach Me**
 - LinkedIn: https://www.linkedin.com/in/adjeiamanda
 - Email: amandaadjei128@gmail.com
-- GitHub: essonah
+- GitHub: https://github.com/essonah
 
 **🚀 Fun Facts**
 - I’m inspired by the Twi proverb: “Two heads are better than one,” which reminds me of the power of collaboration and community.
