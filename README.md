@@ -1,4 +1,4 @@
-**👋 Hi, I’m Amanda Adjei!**
+**👋 Hi, I’m Amanda Adjei!(she/her)**
 
 I’m a passionate developer and problem solver, currently pursuing a career in software engineering. I love building projects that are impactful, user-friendly, and meaningful. 
 
