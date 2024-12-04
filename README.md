@@ -1,34 +1,32 @@
-**👋 Hi, I’m Amanda Adjei!(she/her)**
-
-I’m a passionate developer and problem solver, currently pursuing a career in software engineering. I love building projects that are impactful, user-friendly, and meaningful. 
+**👋 Hi, I'm Amanda Adjei! (she/her)**
+I'm a passionate software engineer and problem solver dedicated to building innovative, user-centric technologies that create meaningful impact.
 
 **🌟 About Me**
-- 🎓 Currently pursuing opportunities to deepen my expertise in software engineering.
-- 🛠 Skilled in web development, database design, and problem-solving.
--	🌱 Actively learning Java, TypeScript, and exploring machine learning concepts.
-- 🌍 Inspired by the belief that technology can drive positive change in communities.
+* 🎓 Emerging software engineer with a growth mindset and commitment to continuous learning
+* 🛠 Versatile developer skilled in web development, database design, and scalable solutions
+* 🌱 Actively expanding expertise in Java, TypeScript, and emerging technologies like machine learning
+* 🌍 Driven by technology's potential to drive positive social transformation
 
-**🌱 What I’m Working On**
-- Building the Rate My Housing web app to help students make informed housing decisions.
-- Exploring new concepts in Java and software design.
-- Growing my skills in cloud technologies, machine learning, and infrastructure.
+**🌱 Current Focus**
+* Developing Rate My Housing - a web application empowering students to make informed housing decisions
+* Deep diving into advanced Java concepts and software design principles
+* Exploring intersections of cloud technologies, machine learning, and infrastructure
 
+**👀 Professional Interests**
+* Innovative tools that enhance user experiences and solve real-world challenges
+* Emerging domains: Fintech, EdTech, and AI-driven solutions
+* Technology as a catalyst for community empowerment
 
-**👀 Interests**
-- Creating innovative tools that improve user experiences.
-- Learning about fintech, education technology, and AI-driven solutions.
+**💻 Technical Toolkit**
+* **Languages:** Python, Java, JavaScript, TypeScript
+* **Frameworks:** React.js, Node.js, Express.js
+* **Databases:** MongoDB, Firebase, PostgreSQL
+* **Tools:** Git, RESTful APIs, Cloud Technologies
 
-**💻 Skills**
+**📫 Connect With Me**
+* [LinkedIn](https://www.linkedin.com/in/adjeiamanda)
+* [GitHub](https://github.com/essonah)
+* amandaadjei128@gmail.com
 
-- Languages: Python, Java, JavaScript, TypeScript
-- Frameworks & Tools: React.js, Node.js, Express.js, MongoDB, Firebase
-- Other: Git, PostgreSQL, RESTful APIs
-
-**📫 How to Reach Me**
-- LinkedIn: https://www.linkedin.com/in/adjeiamanda
-- Email: amandaadjei128@gmail.com
-- GitHub: https://github.com/essonah
-
-**🚀 Fun Facts**
-- I’m inspired by the Twi proverb: “Two heads are better than one,” which reminds me of the power of collaboration and community.
-- I started my coding journey with Python, and it sparked my love for solving real-world problems with technology.
+**🚀 Personal Mantra**
+Inspired by the Twi proverb: "Two heads are better than one" - I believe in the transformative power of collaboration, community, and collective problem-solving.
